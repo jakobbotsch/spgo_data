@@ -92,7 +92,7 @@
 <title>BB6</title>
 <ellipse fill="none" stroke="black" cx="194.72" cy="-565.31" rx="42.35" ry="26.74"/>
 <text text-anchor="middle" x="194.72" y="-569.11" font-family="Times New Roman,serif" font-size="14.00">[63..68)</text>
-<text text-anchor="middle" x="194.72" y="-554.11" font-family="Times New Roman,serif" font-size="14.00">0.12</text>
+<text text-anchor="middle" x="194.72" y="-554.11" font-family="Times New Roman,serif" font-size="14.00">0.13</text>
 </g>
 <!-- BB4&#45;&gt;BB6 -->
 <g id="edge7" class="edge">
@@ -163,7 +163,7 @@
 <title>BB11</title>
 <ellipse fill="none" stroke="black" cx="74.72" cy="-296.09" rx="41.94" ry="26.74"/>
 <text text-anchor="middle" x="74.72" y="-299.89" font-family="Times New Roman,serif" font-size="14.00">[8a..95)</text>
-<text text-anchor="middle" x="74.72" y="-284.89" font-family="Times New Roman,serif" font-size="14.00">0.10</text>
+<text text-anchor="middle" x="74.72" y="-284.89" font-family="Times New Roman,serif" font-size="14.00">0.11</text>
 </g>
 <!-- BB8&#45;&gt;BB11 -->
 <g id="edge12" class="edge">
@@ -214,7 +214,7 @@
 <title>BB14</title>
 <ellipse fill="none" stroke="black" cx="144.72" cy="-206.35" rx="43.27" ry="26.74"/>
 <text text-anchor="middle" x="144.72" y="-210.15" font-family="Times New Roman,serif" font-size="14.00">[c4..d0)</text>
-<text text-anchor="middle" x="144.72" y="-195.15" font-family="Times New Roman,serif" font-size="14.00">0.10</text>
+<text text-anchor="middle" x="144.72" y="-195.15" font-family="Times New Roman,serif" font-size="14.00">0.11</text>
 </g>
 <!-- BB11&#45;&gt;BB14 -->
 <g id="edge17" class="edge">
@@ -290,7 +290,7 @@
 <title>BB26</title>
 <ellipse fill="none" stroke="black" cx="401.72" cy="-475.57" rx="52.15" ry="26.74"/>
 <text text-anchor="middle" x="401.72" y="-479.37" font-family="Times New Roman,serif" font-size="14.00">[164..169)</text>
-<text text-anchor="middle" x="401.72" y="-464.37" font-family="Times New Roman,serif" font-size="14.00">0.02</text>
+<text text-anchor="middle" x="401.72" y="-464.37" font-family="Times New Roman,serif" font-size="14.00">0.01</text>
 </g>
 <!-- BB17&#45;&gt;BB26 -->
 <g id="edge26" class="edge">
@@ -363,12 +363,6 @@
 <path fill="none" stroke="black" d="M449.53,-273.85C465.37,-262.17 485.21,-247.54 502.24,-234.98"/>
 <polygon fill="black" stroke="black" points="504.38,-237.76 510.35,-229 500.23,-232.12 504.38,-237.76"/>
 </g>
-<!-- BB21&#45;&gt;BB22 -->
-<g id="edge32" class="edge">
-<title>BB21&#45;&gt;BB22</title>
-<path fill="none" stroke="black" d="M469.29,-206.35C471.9,-206.35 474.51,-206.35 477.12,-206.35"/>
-<polygon fill="black" stroke="black" points="477.18,-209.85 487.18,-206.35 477.18,-202.85 477.18,-209.85"/>
-</g>
 <!-- BB24 -->
 <g id="node25" class="node">
 <title>BB24</title>
@@ -377,7 +371,7 @@
 <text text-anchor="middle" x="520.72" y="-105.41" font-family="Times New Roman,serif" font-size="14.00">0.01</text>
 </g>
 <!-- BB22&#45;&gt;BB24 -->
-<g id="edge33" class="edge">
+<g id="edge32" class="edge">
 <title>BB22&#45;&gt;BB24</title>
 <path fill="none" stroke="black" d="M534.12,-179.5C532.36,-171.36 530.38,-162.22 528.49,-153.51"/>
 <polygon fill="black" stroke="black" points="531.88,-152.61 526.34,-143.58 525.04,-154.09 531.88,-152.61"/>
@@ -390,13 +384,13 @@
 <text text-anchor="middle" x="520.72" y="-15.67" font-family="Times New Roman,serif" font-size="14.00">0.01</text>
 </g>
 <!-- BB23&#45;&gt;BB24 -->
-<g id="edge34" class="edge">
+<g id="edge33" class="edge">
 <title>BB23&#45;&gt;BB24</title>
 <path fill="none" stroke="black" d="M526.94,-53.84C527.44,-61.9 527.59,-70.93 527.37,-79.55"/>
 <polygon fill="black" stroke="black" points="523.87,-79.62 526.94,-89.76 530.86,-79.92 523.87,-79.62"/>
 </g>
 <!-- BB24&#45;&gt;BB23 -->
-<g id="edge35" class="edge">
+<g id="edge34" class="edge">
 <title>BB24&#45;&gt;BB23</title>
 <path fill="none" stroke="black" d="M514.5,-89.76C514,-81.71 513.85,-72.68 514.06,-64.06"/>
 <polygon fill="black" stroke="black" points="517.57,-63.98 514.5,-53.84 510.57,-63.68 517.57,-63.98"/>
@@ -409,19 +403,19 @@
 <text text-anchor="middle" x="378.72" y="-15.67" font-family="Times New Roman,serif" font-size="14.00">0.00</text>
 </g>
 <!-- BB24&#45;&gt;BB25 -->
-<g id="edge36" class="edge">
+<g id="edge35" class="edge">
 <title>BB24&#45;&gt;BB25</title>
 <path fill="none" stroke="black" d="M488.14,-95.48C467.99,-83.03 441.93,-66.93 420.3,-53.56"/>
 <polygon fill="black" stroke="black" points="421.98,-50.49 411.64,-48.21 418.3,-56.44 421.98,-50.49"/>
 </g>
 <!-- BB25&#45;&gt;BB26 -->
-<g id="edge37" class="edge">
+<g id="edge36" class="edge">
 <title>BB25&#45;&gt;BB26</title>
 <path fill="none" stroke="black" d="M369.71,-53.37C358.48,-87.52 340.72,-150.21 340.72,-205.35 340.72,-297.09 340.72,-297.09 340.72,-297.09 340.72,-349.16 340.42,-364.34 359.72,-412.7 363.8,-422.93 369.8,-433.18 375.98,-442.31"/>
 <polygon fill="black" stroke="black" points="373.28,-444.55 381.92,-450.68 378.99,-440.5 373.28,-444.55"/>
 </g>
 <!-- BB26&#45;&gt;BB18 -->
-<g id="edge38" class="edge">
+<g id="edge37" class="edge">
 <title>BB26&#45;&gt;BB18</title>
 <path fill="none" stroke="black" d="M407.32,-448.72C409.08,-440.58 411.06,-431.44 412.94,-422.74"/>
 <polygon fill="black" stroke="black" points="416.4,-423.31 415.1,-412.8 409.56,-421.83 416.4,-423.31"/>
@@ -434,13 +428,13 @@
 <text text-anchor="middle" x="542.72" y="-374.63" font-family="Times New Roman,serif" font-size="14.00">0.00</text>
 </g>
 <!-- BB26&#45;&gt;BB27 -->
-<g id="edge39" class="edge">
+<g id="edge38" class="edge">
 <title>BB26&#45;&gt;BB27</title>
 <path fill="none" stroke="black" d="M434.07,-454.44C454.22,-441.9 480.32,-425.66 501.89,-412.24"/>
 <polygon fill="black" stroke="black" points="503.88,-415.12 510.52,-406.87 500.18,-409.18 503.88,-415.12"/>
 </g>
 <!-- BB27&#45;&gt;BB3 -->
-<g id="edge40" class="edge">
+<g id="edge39" class="edge">
 <title>BB27&#45;&gt;BB3</title>
 <path fill="none" stroke="black" d="M544.76,-412.69C547.29,-451.87 549.98,-528.45 538.72,-592.18 531.38,-633.72 514.5,-679.23 501.95,-709.44"/>
 <polygon fill="black" stroke="black" points="498.71,-708.11 498.04,-718.68 505.16,-710.83 498.71,-708.11"/>

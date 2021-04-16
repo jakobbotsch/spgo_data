@@ -116,36 +116,30 @@
 <!-- BB6 -->
 <g id="node7" class="node">
 <title>BB6</title>
-<ellipse fill="none" stroke="black" cx="145.43" cy="-26.87" rx="42.35" ry="26.74"/>
-<text text-anchor="middle" x="145.43" y="-30.67" font-family="Times New Roman,serif" font-size="14.00">[44..4c)</text>
-<text text-anchor="middle" x="145.43" y="-15.67" font-family="Times New Roman,serif" font-size="14.00">0.05</text>
+<ellipse fill="none" stroke="black" cx="128.43" cy="-26.87" rx="42.35" ry="26.74"/>
+<text text-anchor="middle" x="128.43" y="-30.67" font-family="Times New Roman,serif" font-size="14.00">[44..4c)</text>
+<text text-anchor="middle" x="128.43" y="-15.67" font-family="Times New Roman,serif" font-size="14.00">0.05</text>
 </g>
 <!-- BB4&#45;&gt;BB6 -->
 <g id="edge8" class="edge">
 <title>BB4&#45;&gt;BB6</title>
-<path fill="none" stroke="black" d="M67.1,-94.59C80.76,-82.96 97.91,-68.35 112.68,-55.77"/>
-<polygon fill="black" stroke="black" points="115.26,-58.17 120.6,-49.02 110.72,-52.84 115.26,-58.17"/>
-</g>
-<!-- BB5&#45;&gt;BB6 -->
-<g id="edge10" class="edge">
-<title>BB5&#45;&gt;BB6</title>
-<path fill="none" stroke="black" d="M145.43,-89.29C145.43,-81.32 145.43,-72.43 145.43,-63.94"/>
-<polygon fill="black" stroke="black" points="148.93,-63.87 145.43,-53.87 141.93,-63.87 148.93,-63.87"/>
+<path fill="none" stroke="black" d="M64.13,-93.47C74.82,-82.56 87.87,-69.25 99.41,-57.48"/>
+<polygon fill="black" stroke="black" points="102.23,-59.6 106.73,-50 97.23,-54.7 102.23,-59.6"/>
 </g>
 <!-- BB6&#45;&gt;BB7 -->
-<g id="edge11" class="edge">
+<g id="edge10" class="edge">
 <title>BB6&#45;&gt;BB7</title>
-<path fill="none" stroke="black" d="M168.72,-49.46C179.04,-60.46 190.22,-74.68 196.43,-89.74 219.37,-145.43 220.37,-216.62 218.35,-258.87"/>
-<polygon fill="black" stroke="black" points="214.85,-258.79 217.78,-268.97 221.84,-259.18 214.85,-258.79"/>
+<path fill="none" stroke="black" d="M157.68,-46.65C171.89,-57.44 187.74,-72.31 196.43,-89.74 223.45,-143.95 223.05,-216.18 219.68,-258.95"/>
+<polygon fill="black" stroke="black" points="216.17,-258.89 218.77,-269.16 223.14,-259.51 216.17,-258.89"/>
 </g>
 <!-- BB7&#45;&gt;BB8 -->
-<g id="edge12" class="edge">
+<g id="edge11" class="edge">
 <title>BB7&#45;&gt;BB8</title>
 <path fill="none" stroke="black" d="M215.43,-323.1C215.43,-353.51 215.43,-404.06 215.43,-438.31"/>
 <polygon fill="black" stroke="black" points="211.93,-438.38 215.43,-448.38 218.93,-438.38 211.93,-438.38"/>
 </g>
 <!-- BB8&#45;&gt;BB1 -->
-<g id="edge13" class="edge">
+<g id="edge12" class="edge">
 <title>BB8&#45;&gt;BB1</title>
 <path fill="none" stroke="black" d="M198.01,-451.06C190.46,-440.86 181.51,-428.79 173.42,-417.87"/>
 <polygon fill="black" stroke="black" points="176.21,-415.75 167.44,-409.8 170.58,-419.92 176.21,-415.75"/>
@@ -158,7 +152,7 @@
 <text text-anchor="middle" x="285.43" y="-374.63" font-family="Times New Roman,serif" font-size="14.00">0.00</text>
 </g>
 <!-- BB8&#45;&gt;BB9 -->
-<g id="edge14" class="edge">
+<g id="edge13" class="edge">
 <title>BB8&#45;&gt;BB9</title>
 <path fill="none" stroke="black" d="M234.19,-451.06C242.25,-440.95 251.8,-428.98 260.45,-418.13"/>
 <polygon fill="black" stroke="black" points="263.36,-420.1 266.86,-410.1 257.89,-415.74 263.36,-420.1"/>
