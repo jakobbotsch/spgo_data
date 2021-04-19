@@ -38,8 +38,8 @@
 <title>BB2</title>
 <ellipse fill="none" stroke="black" cx="332.24" cy="-48.08" rx="108.38" ry="48.17"/>
 <text text-anchor="middle" x="332.24" y="-66.88" font-family="Times New Roman,serif" font-size="14.00">[16..50)</text>
-<text text-anchor="middle" x="332.24" y="-51.88" font-family="Times New Roman,serif" font-size="14.00">Count: 58</text>
-<text text-anchor="middle" x="332.24" y="-36.88" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 29.00</text>
+<text text-anchor="middle" x="332.24" y="-51.88" font-family="Times New Roman,serif" font-size="14.00">Count: 66</text>
+<text text-anchor="middle" x="332.24" y="-36.88" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 33.00</text>
 <text text-anchor="middle" x="332.24" y="-21.88" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.97</text>
 </g>
 <!-- BB0&#45;&gt;BB2 -->

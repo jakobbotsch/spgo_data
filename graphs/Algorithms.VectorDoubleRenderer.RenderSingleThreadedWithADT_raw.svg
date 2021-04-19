@@ -71,7 +71,7 @@
 <title>BB3</title>
 <ellipse fill="none" stroke="black" cx="317.65" cy="-312.42" rx="113.69" ry="48.17"/>
 <text text-anchor="middle" x="317.65" y="-331.22" font-family="Times New Roman,serif" font-size="14.00">[d5..127)</text>
-<text text-anchor="middle" x="317.65" y="-316.22" font-family="Times New Roman,serif" font-size="14.00">Count: 786</text>
+<text text-anchor="middle" x="317.65" y="-316.22" font-family="Times New Roman,serif" font-size="14.00">Count: 805</text>
 <text text-anchor="middle" x="317.65" y="-301.22" font-family="Times New Roman,serif" font-size="14.00">Normalized count: Infinity</text>
 <text text-anchor="middle" x="317.65" y="-286.22" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 1.00</text>
 </g>

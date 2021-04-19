@@ -23,8 +23,8 @@
 <title>BB1</title>
 <ellipse fill="none" stroke="black" cx="108.19" cy="-180.25" rx="108.38" ry="48.17"/>
 <text text-anchor="middle" x="108.19" y="-199.05" font-family="Times New Roman,serif" font-size="14.00">[2..6b)</text>
-<text text-anchor="middle" x="108.19" y="-184.05" font-family="Times New Roman,serif" font-size="14.00">Count: 108</text>
-<text text-anchor="middle" x="108.19" y="-169.05" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 54.00</text>
+<text text-anchor="middle" x="108.19" y="-184.05" font-family="Times New Roman,serif" font-size="14.00">Count: 106</text>
+<text text-anchor="middle" x="108.19" y="-169.05" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 53.00</text>
 <text text-anchor="middle" x="108.19" y="-154.05" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.96</text>
 </g>
 <!-- BB0&#45;&gt;BB1 -->

@@ -12,26 +12,26 @@
 <!-- BB0 -->
 <g id="node1" class="node">
 <title>BB0</title>
-<ellipse fill="none" stroke="black" cx="284.65" cy="-973.25" rx="104.8" ry="48.17"/>
-<text text-anchor="middle" x="284.65" y="-992.05" font-family="Times New Roman,serif" font-size="14.00">[0..6)</text>
-<text text-anchor="middle" x="284.65" y="-977.05" font-family="Times New Roman,serif" font-size="14.00">Count: 0</text>
-<text text-anchor="middle" x="284.65" y="-962.05" font-family="Times New Roman,serif" font-size="14.00">Normalized count: NaN</text>
-<text text-anchor="middle" x="284.65" y="-947.05" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.00</text>
+<ellipse fill="none" stroke="black" cx="288.65" cy="-973.25" rx="104.8" ry="48.17"/>
+<text text-anchor="middle" x="288.65" y="-992.05" font-family="Times New Roman,serif" font-size="14.00">[0..6)</text>
+<text text-anchor="middle" x="288.65" y="-977.05" font-family="Times New Roman,serif" font-size="14.00">Count: 0</text>
+<text text-anchor="middle" x="288.65" y="-962.05" font-family="Times New Roman,serif" font-size="14.00">Normalized count: NaN</text>
+<text text-anchor="middle" x="288.65" y="-947.05" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.00</text>
 </g>
 <!-- BB8 -->
 <g id="node9" class="node">
 <title>BB8</title>
-<ellipse fill="none" stroke="black" cx="284.65" cy="-841.08" rx="104.8" ry="48.17"/>
-<text text-anchor="middle" x="284.65" y="-859.88" font-family="Times New Roman,serif" font-size="14.00">[7d..82)</text>
-<text text-anchor="middle" x="284.65" y="-844.88" font-family="Times New Roman,serif" font-size="14.00">Count: 0</text>
-<text text-anchor="middle" x="284.65" y="-829.88" font-family="Times New Roman,serif" font-size="14.00">Normalized count: NaN</text>
-<text text-anchor="middle" x="284.65" y="-814.88" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.00</text>
+<ellipse fill="none" stroke="black" cx="288.65" cy="-841.08" rx="104.8" ry="48.17"/>
+<text text-anchor="middle" x="288.65" y="-859.88" font-family="Times New Roman,serif" font-size="14.00">[7d..82)</text>
+<text text-anchor="middle" x="288.65" y="-844.88" font-family="Times New Roman,serif" font-size="14.00">Count: 0</text>
+<text text-anchor="middle" x="288.65" y="-829.88" font-family="Times New Roman,serif" font-size="14.00">Normalized count: NaN</text>
+<text text-anchor="middle" x="288.65" y="-814.88" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.00</text>
 </g>
 <!-- BB0&#45;&gt;BB8 -->
 <g id="edge1" class="edge">
 <title>BB0&#45;&gt;BB8</title>
-<path fill="none" stroke="black" d="M284.65,-924.89C284.65,-916.62 284.65,-907.94 284.65,-899.43"/>
-<polygon fill="black" stroke="black" points="288.15,-899.19 284.65,-889.19 281.15,-899.19 288.15,-899.19"/>
+<path fill="none" stroke="black" d="M288.65,-924.89C288.65,-916.62 288.65,-907.94 288.65,-899.43"/>
+<polygon fill="black" stroke="black" points="292.15,-899.19 288.65,-889.19 285.15,-899.19 292.15,-899.19"/>
 </g>
 <!-- BB1 -->
 <g id="node2" class="node">
@@ -45,24 +45,24 @@
 <!-- BB6 -->
 <g id="node7" class="node">
 <title>BB6</title>
-<ellipse fill="none" stroke="black" cx="316.65" cy="-444.58" rx="113.69" ry="48.17"/>
-<text text-anchor="middle" x="316.65" y="-463.38" font-family="Times New Roman,serif" font-size="14.00">[70..74)</text>
-<text text-anchor="middle" x="316.65" y="-448.38" font-family="Times New Roman,serif" font-size="14.00">Count: 1</text>
-<text text-anchor="middle" x="316.65" y="-433.38" font-family="Times New Roman,serif" font-size="14.00">Normalized count: Infinity</text>
-<text text-anchor="middle" x="316.65" y="-418.38" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.00</text>
+<ellipse fill="none" stroke="black" cx="314.65" cy="-444.58" rx="104.8" ry="48.17"/>
+<text text-anchor="middle" x="314.65" y="-463.38" font-family="Times New Roman,serif" font-size="14.00">[70..74)</text>
+<text text-anchor="middle" x="314.65" y="-448.38" font-family="Times New Roman,serif" font-size="14.00">Count: 0</text>
+<text text-anchor="middle" x="314.65" y="-433.38" font-family="Times New Roman,serif" font-size="14.00">Normalized count: NaN</text>
+<text text-anchor="middle" x="314.65" y="-418.38" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.00</text>
 </g>
 <!-- BB1&#45;&gt;BB6 -->
 <g id="edge2" class="edge">
 <title>BB1&#45;&gt;BB6</title>
-<path fill="none" stroke="black" d="M298.76,-528.76C300.6,-520.18 302.55,-511.16 304.44,-502.34"/>
-<polygon fill="black" stroke="black" points="307.88,-503.02 306.56,-492.51 301.03,-501.55 307.88,-503.02"/>
+<path fill="none" stroke="black" d="M298.04,-528.76C299.75,-520.18 301.55,-511.16 303.31,-502.34"/>
+<polygon fill="black" stroke="black" points="306.75,-503 305.28,-492.51 299.89,-501.63 306.75,-503"/>
 </g>
 <!-- BB2 -->
 <g id="node3" class="node">
 <title>BB2</title>
 <ellipse fill="none" stroke="black" cx="340.65" cy="-312.42" rx="113.69" ry="48.17"/>
 <text text-anchor="middle" x="340.65" y="-331.22" font-family="Times New Roman,serif" font-size="14.00">[c..23)</text>
-<text text-anchor="middle" x="340.65" y="-316.22" font-family="Times New Roman,serif" font-size="14.00">Count: 4</text>
+<text text-anchor="middle" x="340.65" y="-316.22" font-family="Times New Roman,serif" font-size="14.00">Count: 3</text>
 <text text-anchor="middle" x="340.65" y="-301.22" font-family="Times New Roman,serif" font-size="14.00">Normalized count: Infinity</text>
 <text text-anchor="middle" x="340.65" y="-286.22" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.00</text>
 </g>
@@ -71,9 +71,9 @@
 <title>BB3</title>
 <ellipse fill="none" stroke="black" cx="327.65" cy="-180.25" rx="113.69" ry="48.17"/>
 <text text-anchor="middle" x="327.65" y="-199.05" font-family="Times New Roman,serif" font-size="14.00">[23..4f)</text>
-<text text-anchor="middle" x="327.65" y="-184.05" font-family="Times New Roman,serif" font-size="14.00">Count: 1149</text>
+<text text-anchor="middle" x="327.65" y="-184.05" font-family="Times New Roman,serif" font-size="14.00">Count: 1187</text>
 <text text-anchor="middle" x="327.65" y="-169.05" font-family="Times New Roman,serif" font-size="14.00">Normalized count: Infinity</text>
-<text text-anchor="middle" x="327.65" y="-154.05" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.95</text>
+<text text-anchor="middle" x="327.65" y="-154.05" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.96</text>
 </g>
 <!-- BB2&#45;&gt;BB3 -->
 <g id="edge3" class="edge">
@@ -86,9 +86,9 @@
 <title>BB4</title>
 <ellipse fill="none" stroke="black" cx="275.65" cy="-48.08" rx="113.69" ry="48.17"/>
 <text text-anchor="middle" x="275.65" y="-66.88" font-family="Times New Roman,serif" font-size="14.00">[4f..58)</text>
-<text text-anchor="middle" x="275.65" y="-51.88" font-family="Times New Roman,serif" font-size="14.00">Count: 58</text>
+<text text-anchor="middle" x="275.65" y="-51.88" font-family="Times New Roman,serif" font-size="14.00">Count: 50</text>
 <text text-anchor="middle" x="275.65" y="-36.88" font-family="Times New Roman,serif" font-size="14.00">Normalized count: Infinity</text>
-<text text-anchor="middle" x="275.65" y="-21.88" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.05</text>
+<text text-anchor="middle" x="275.65" y="-21.88" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.04</text>
 </g>
 <!-- BB3&#45;&gt;BB4 -->
 <g id="edge5" class="edge">
@@ -126,14 +126,14 @@
 <!-- BB5&#45;&gt;BB6 -->
 <g id="edge8" class="edge">
 <title>BB5&#45;&gt;BB6</title>
-<path fill="none" stroke="black" d="M524.63,-96.29C526.35,-161.74 520.47,-280.95 463.65,-360.5 449.94,-379.7 430.31,-395.04 409.85,-407.05"/>
-<polygon fill="black" stroke="black" points="408.05,-404.05 401.04,-412 411.47,-410.15 408.05,-404.05"/>
+<path fill="none" stroke="black" d="M524.7,-96.33C526.49,-161.84 520.7,-281.12 463.65,-360.5 448.85,-381.1 427.28,-397.21 405.12,-409.53"/>
+<polygon fill="black" stroke="black" points="403.46,-406.45 396.28,-414.24 406.76,-412.63 403.46,-406.45"/>
 </g>
 <!-- BB6&#45;&gt;BB2 -->
 <g id="edge9" class="edge">
 <title>BB6&#45;&gt;BB2</title>
-<path fill="none" stroke="black" d="M325.32,-396.59C326.86,-388.22 328.48,-379.41 330.07,-370.78"/>
-<polygon fill="black" stroke="black" points="333.55,-371.25 331.92,-360.78 326.66,-369.98 333.55,-371.25"/>
+<path fill="none" stroke="black" d="M324.04,-396.59C325.75,-388.02 327.55,-378.99 329.31,-370.17"/>
+<polygon fill="black" stroke="black" points="332.75,-370.83 331.28,-360.34 325.89,-369.46 332.75,-370.83"/>
 </g>
 <!-- BB7 -->
 <g id="node8" class="node">
@@ -147,56 +147,56 @@
 <!-- BB6&#45;&gt;BB7 -->
 <g id="edge10" class="edge">
 <title>BB6&#45;&gt;BB7</title>
-<path fill="none" stroke="black" d="M253.04,-404.53C228.5,-389.46 200.32,-372.15 175.16,-356.7"/>
-<polygon fill="black" stroke="black" points="176.74,-353.57 166.39,-351.32 173.08,-359.54 176.74,-353.57"/>
+<path fill="none" stroke="black" d="M253.35,-405.58C228.66,-390.28 200.04,-372.54 174.55,-356.74"/>
+<polygon fill="black" stroke="black" points="176.38,-353.76 166.03,-351.46 172.69,-359.71 176.38,-353.76"/>
 </g>
 <!-- BB7&#45;&gt;BB8 -->
 <g id="edge11" class="edge">
 <title>BB7&#45;&gt;BB8</title>
-<path fill="none" stroke="black" d="M100.32,-360.75C94.8,-446.44 93.84,-630.12 170.65,-757 180.23,-772.82 194.08,-786.54 208.84,-798.01"/>
-<polygon fill="black" stroke="black" points="207,-801.01 217.12,-804.16 211.17,-795.39 207,-801.01"/>
+<path fill="none" stroke="black" d="M100.84,-360.79C96.25,-446.53 97.18,-630.28 174.65,-757 184.3,-772.78 198.17,-786.48 212.94,-797.95"/>
+<polygon fill="black" stroke="black" points="211.1,-800.94 221.22,-804.09 215.28,-795.32 211.1,-800.94"/>
 </g>
 <!-- BB9 -->
 <g id="node10" class="node">
 <title>BB9</title>
-<ellipse fill="none" stroke="black" cx="284.65" cy="-708.92" rx="104.8" ry="48.17"/>
-<text text-anchor="middle" x="284.65" y="-727.72" font-family="Times New Roman,serif" font-size="14.00">[82..8d)</text>
-<text text-anchor="middle" x="284.65" y="-712.72" font-family="Times New Roman,serif" font-size="14.00">Count: 0</text>
-<text text-anchor="middle" x="284.65" y="-697.72" font-family="Times New Roman,serif" font-size="14.00">Normalized count: NaN</text>
-<text text-anchor="middle" x="284.65" y="-682.72" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.00</text>
+<ellipse fill="none" stroke="black" cx="288.65" cy="-708.92" rx="104.8" ry="48.17"/>
+<text text-anchor="middle" x="288.65" y="-727.72" font-family="Times New Roman,serif" font-size="14.00">[82..8d)</text>
+<text text-anchor="middle" x="288.65" y="-712.72" font-family="Times New Roman,serif" font-size="14.00">Count: 0</text>
+<text text-anchor="middle" x="288.65" y="-697.72" font-family="Times New Roman,serif" font-size="14.00">Normalized count: NaN</text>
+<text text-anchor="middle" x="288.65" y="-682.72" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.00</text>
 </g>
 <!-- BB8&#45;&gt;BB9 -->
 <g id="edge13" class="edge">
 <title>BB8&#45;&gt;BB9</title>
-<path fill="none" stroke="black" d="M284.65,-792.72C284.65,-784.45 284.65,-775.77 284.65,-767.27"/>
-<polygon fill="black" stroke="black" points="288.15,-767.02 284.65,-757.02 281.15,-767.02 288.15,-767.02"/>
+<path fill="none" stroke="black" d="M288.65,-792.72C288.65,-784.45 288.65,-775.77 288.65,-767.27"/>
+<polygon fill="black" stroke="black" points="292.15,-767.02 288.65,-757.02 285.15,-767.02 292.15,-767.02"/>
 </g>
 <!-- BB10 -->
 <g id="node11" class="node">
 <title>BB10</title>
-<ellipse fill="none" stroke="black" cx="511.65" cy="-708.92" rx="104.8" ry="48.17"/>
-<text text-anchor="middle" x="511.65" y="-727.72" font-family="Times New Roman,serif" font-size="14.00">[8d..8e)</text>
-<text text-anchor="middle" x="511.65" y="-712.72" font-family="Times New Roman,serif" font-size="14.00">Count: 0</text>
-<text text-anchor="middle" x="511.65" y="-697.72" font-family="Times New Roman,serif" font-size="14.00">Normalized count: NaN</text>
-<text text-anchor="middle" x="511.65" y="-682.72" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.00</text>
+<ellipse fill="none" stroke="black" cx="515.65" cy="-708.92" rx="104.8" ry="48.17"/>
+<text text-anchor="middle" x="515.65" y="-727.72" font-family="Times New Roman,serif" font-size="14.00">[8d..8e)</text>
+<text text-anchor="middle" x="515.65" y="-712.72" font-family="Times New Roman,serif" font-size="14.00">Count: 0</text>
+<text text-anchor="middle" x="515.65" y="-697.72" font-family="Times New Roman,serif" font-size="14.00">Normalized count: NaN</text>
+<text text-anchor="middle" x="515.65" y="-682.72" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.00</text>
 </g>
 <!-- BB8&#45;&gt;BB10 -->
 <g id="edge12" class="edge">
 <title>BB8&#45;&gt;BB10</title>
-<path fill="none" stroke="black" d="M349.09,-803.13C376.89,-787.19 409.55,-768.46 438.27,-751.99"/>
-<polygon fill="black" stroke="black" points="440.11,-754.97 447.05,-746.96 436.63,-748.9 440.11,-754.97"/>
+<path fill="none" stroke="black" d="M353.09,-803.13C380.89,-787.19 413.55,-768.46 442.27,-751.99"/>
+<polygon fill="black" stroke="black" points="444.11,-754.97 451.05,-746.96 440.63,-748.9 444.11,-754.97"/>
 </g>
 <!-- BB9&#45;&gt;BB1 -->
 <g id="edge14" class="edge">
 <title>BB9&#45;&gt;BB1</title>
-<path fill="none" stroke="black" d="M286.11,-660.55C286.36,-652.29 286.63,-643.6 286.89,-635.1"/>
-<polygon fill="black" stroke="black" points="290.4,-634.96 287.2,-624.86 283.4,-634.75 290.4,-634.96"/>
+<path fill="none" stroke="black" d="M288.65,-660.55C288.65,-652.29 288.65,-643.6 288.65,-635.1"/>
+<polygon fill="black" stroke="black" points="292.15,-634.86 288.65,-624.86 285.15,-634.86 292.15,-634.86"/>
 </g>
 <!-- BB9&#45;&gt;BB10 -->
 <g id="edge15" class="edge">
 <title>BB9&#45;&gt;BB10</title>
-<path fill="none" stroke="black" d="M389.73,-708.92C392.05,-708.92 394.37,-708.92 396.69,-708.92"/>
-<polygon fill="black" stroke="black" points="396.87,-712.42 406.87,-708.92 396.87,-705.42 396.87,-712.42"/>
+<path fill="none" stroke="black" d="M393.73,-708.92C396.05,-708.92 398.37,-708.92 400.69,-708.92"/>
+<polygon fill="black" stroke="black" points="400.87,-712.42 410.87,-708.92 400.87,-705.42 400.87,-712.42"/>
 </g>
 </g>
 </svg>
