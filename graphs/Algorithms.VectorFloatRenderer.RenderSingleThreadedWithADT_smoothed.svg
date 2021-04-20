@@ -71,8 +71,8 @@
 <title>BB3</title>
 <ellipse fill="none" stroke="black" cx="313.24" cy="-312.42" rx="113.27" ry="48.17"/>
 <text text-anchor="middle" x="313.24" y="-331.22" font-family="Times New Roman,serif" font-size="14.00">[c4..114)</text>
-<text text-anchor="middle" x="313.24" y="-316.22" font-family="Times New Roman,serif" font-size="14.00">Count: 486</text>
-<text text-anchor="middle" x="313.24" y="-301.22" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 243.00</text>
+<text text-anchor="middle" x="313.24" y="-316.22" font-family="Times New Roman,serif" font-size="14.00">Count: 438</text>
+<text text-anchor="middle" x="313.24" y="-301.22" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 219.00</text>
 <text text-anchor="middle" x="313.24" y="-286.22" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.97</text>
 </g>
 <!-- BB2&#45;&gt;BB3 -->
