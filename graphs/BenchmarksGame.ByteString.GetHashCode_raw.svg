@@ -14,9 +14,9 @@
 <title>BB0</title>
 <ellipse fill="none" stroke="black" cx="215.24" cy="-708.92" rx="103.48" ry="48.17"/>
 <text text-anchor="middle" x="215.24" y="-727.72" font-family="Times New Roman,serif" font-size="14.00">[0..9)</text>
-<text text-anchor="middle" x="215.24" y="-712.72" font-family="Times New Roman,serif" font-size="14.00">Count: 3115</text>
+<text text-anchor="middle" x="215.24" y="-712.72" font-family="Times New Roman,serif" font-size="14.00">Count: 3763</text>
 <text text-anchor="middle" x="215.24" y="-697.72" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 1.00</text>
-<text text-anchor="middle" x="215.24" y="-682.72" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.08</text>
+<text text-anchor="middle" x="215.24" y="-682.72" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.10</text>
 </g>
 <!-- BB1 -->
 <g id="node2" class="node">
@@ -38,9 +38,9 @@
 <title>BB2</title>
 <ellipse fill="none" stroke="black" cx="327.24" cy="-576.75" rx="103.48" ry="48.17"/>
 <text text-anchor="middle" x="327.24" y="-595.55" font-family="Times New Roman,serif" font-size="14.00">[b..2c)</text>
-<text text-anchor="middle" x="327.24" y="-580.55" font-family="Times New Roman,serif" font-size="14.00">Count: 2759</text>
-<text text-anchor="middle" x="327.24" y="-565.55" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 0.89</text>
-<text text-anchor="middle" x="327.24" y="-550.55" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.07</text>
+<text text-anchor="middle" x="327.24" y="-580.55" font-family="Times New Roman,serif" font-size="14.00">Count: 3319</text>
+<text text-anchor="middle" x="327.24" y="-565.55" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 0.88</text>
+<text text-anchor="middle" x="327.24" y="-550.55" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.09</text>
 </g>
 <!-- BB0&#45;&gt;BB2 -->
 <g id="edge1" class="edge">
@@ -53,9 +53,9 @@
 <title>BB3</title>
 <ellipse fill="none" stroke="black" cx="215.24" cy="-444.58" rx="103.48" ry="48.17"/>
 <text text-anchor="middle" x="215.24" y="-463.38" font-family="Times New Roman,serif" font-size="14.00">[2c..2e)</text>
-<text text-anchor="middle" x="215.24" y="-448.38" font-family="Times New Roman,serif" font-size="14.00">Count: 290</text>
-<text text-anchor="middle" x="215.24" y="-433.38" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 0.09</text>
-<text text-anchor="middle" x="215.24" y="-418.38" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.01</text>
+<text text-anchor="middle" x="215.24" y="-448.38" font-family="Times New Roman,serif" font-size="14.00">Count: 686</text>
+<text text-anchor="middle" x="215.24" y="-433.38" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 0.18</text>
+<text text-anchor="middle" x="215.24" y="-418.38" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.02</text>
 </g>
 <!-- BB2&#45;&gt;BB3 -->
 <g id="edge4" class="edge">
@@ -68,8 +68,8 @@
 <title>BB4</title>
 <ellipse fill="none" stroke="black" cx="439.24" cy="-444.58" rx="103.48" ry="48.17"/>
 <text text-anchor="middle" x="439.24" y="-463.38" font-family="Times New Roman,serif" font-size="14.00">[2e..53)</text>
-<text text-anchor="middle" x="439.24" y="-448.38" font-family="Times New Roman,serif" font-size="14.00">Count: 1957</text>
-<text text-anchor="middle" x="439.24" y="-433.38" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 0.63</text>
+<text text-anchor="middle" x="439.24" y="-448.38" font-family="Times New Roman,serif" font-size="14.00">Count: 2095</text>
+<text text-anchor="middle" x="439.24" y="-433.38" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 0.56</text>
 <text text-anchor="middle" x="439.24" y="-418.38" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.05</text>
 </g>
 <!-- BB2&#45;&gt;BB4 -->
@@ -83,9 +83,9 @@
 <title>BB5</title>
 <ellipse fill="none" stroke="black" cx="327.24" cy="-312.42" rx="103.48" ry="48.17"/>
 <text text-anchor="middle" x="327.24" y="-331.22" font-family="Times New Roman,serif" font-size="14.00">[53..55)</text>
-<text text-anchor="middle" x="327.24" y="-316.22" font-family="Times New Roman,serif" font-size="14.00">Count: 183</text>
+<text text-anchor="middle" x="327.24" y="-316.22" font-family="Times New Roman,serif" font-size="14.00">Count: 226</text>
 <text text-anchor="middle" x="327.24" y="-301.22" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 0.06</text>
-<text text-anchor="middle" x="327.24" y="-286.22" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.00</text>
+<text text-anchor="middle" x="327.24" y="-286.22" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.01</text>
 </g>
 <!-- BB4&#45;&gt;BB5 -->
 <g id="edge6" class="edge">
@@ -98,9 +98,9 @@
 <title>BB6</title>
 <ellipse fill="none" stroke="black" cx="551.24" cy="-312.42" rx="103.48" ry="48.17"/>
 <text text-anchor="middle" x="551.24" y="-331.22" font-family="Times New Roman,serif" font-size="14.00">[55..60)</text>
-<text text-anchor="middle" x="551.24" y="-316.22" font-family="Times New Roman,serif" font-size="14.00">Count: 1698</text>
-<text text-anchor="middle" x="551.24" y="-301.22" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 0.55</text>
-<text text-anchor="middle" x="551.24" y="-286.22" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.04</text>
+<text text-anchor="middle" x="551.24" y="-316.22" font-family="Times New Roman,serif" font-size="14.00">Count: 1815</text>
+<text text-anchor="middle" x="551.24" y="-301.22" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 0.48</text>
+<text text-anchor="middle" x="551.24" y="-286.22" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.05</text>
 </g>
 <!-- BB4&#45;&gt;BB6 -->
 <g id="edge5" class="edge">
@@ -113,9 +113,9 @@
 <title>BB8</title>
 <ellipse fill="none" stroke="black" cx="551.24" cy="-180.25" rx="103.48" ry="48.17"/>
 <text text-anchor="middle" x="551.24" y="-199.05" font-family="Times New Roman,serif" font-size="14.00">[7e..82)</text>
-<text text-anchor="middle" x="551.24" y="-184.05" font-family="Times New Roman,serif" font-size="14.00">Count: 14251</text>
-<text text-anchor="middle" x="551.24" y="-169.05" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 4.57</text>
-<text text-anchor="middle" x="551.24" y="-154.05" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.38</text>
+<text text-anchor="middle" x="551.24" y="-184.05" font-family="Times New Roman,serif" font-size="14.00">Count: 13934</text>
+<text text-anchor="middle" x="551.24" y="-169.05" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 3.70</text>
+<text text-anchor="middle" x="551.24" y="-154.05" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.36</text>
 </g>
 <!-- BB6&#45;&gt;BB8 -->
 <g id="edge7" class="edge">
@@ -128,9 +128,9 @@
 <title>BB7</title>
 <ellipse fill="none" stroke="black" cx="551.24" cy="-48.08" rx="103.48" ry="48.17"/>
 <text text-anchor="middle" x="551.24" y="-66.88" font-family="Times New Roman,serif" font-size="14.00">[60..7e)</text>
-<text text-anchor="middle" x="551.24" y="-51.88" font-family="Times New Roman,serif" font-size="14.00">Count: 12494</text>
-<text text-anchor="middle" x="551.24" y="-36.88" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 4.01</text>
-<text text-anchor="middle" x="551.24" y="-21.88" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.33</text>
+<text text-anchor="middle" x="551.24" y="-51.88" font-family="Times New Roman,serif" font-size="14.00">Count: 12069</text>
+<text text-anchor="middle" x="551.24" y="-36.88" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 3.21</text>
+<text text-anchor="middle" x="551.24" y="-21.88" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.31</text>
 </g>
 <!-- BB7&#45;&gt;BB8 -->
 <g id="edge8" class="edge">
@@ -149,8 +149,8 @@
 <title>BB9</title>
 <ellipse fill="none" stroke="black" cx="775.24" cy="-48.08" rx="103.48" ry="48.17"/>
 <text text-anchor="middle" x="775.24" y="-66.88" font-family="Times New Roman,serif" font-size="14.00">[82..84)</text>
-<text text-anchor="middle" x="775.24" y="-51.88" font-family="Times New Roman,serif" font-size="14.00">Count: 1126</text>
-<text text-anchor="middle" x="775.24" y="-36.88" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 0.36</text>
+<text text-anchor="middle" x="775.24" y="-51.88" font-family="Times New Roman,serif" font-size="14.00">Count: 1138</text>
+<text text-anchor="middle" x="775.24" y="-36.88" font-family="Times New Roman,serif" font-size="14.00">Normalized count: 0.30</text>
 <text text-anchor="middle" x="775.24" y="-21.88" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.03</text>
 </g>
 <!-- BB8&#45;&gt;BB9 -->

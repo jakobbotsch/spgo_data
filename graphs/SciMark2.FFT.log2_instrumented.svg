@@ -99,11 +99,5 @@
 <path fill="none" stroke="black" d="M375.11,-135.18C384.59,-124.16 394.86,-112.23 404.63,-100.86"/>
 <polygon fill="black" stroke="black" points="407.44,-102.97 411.31,-93.11 402.13,-98.4 407.44,-102.97"/>
 </g>
-<!-- BB4&#45;&gt;BB5 -->
-<g id="edge7" class="edge">
-<title>BB4&#45;&gt;BB5</title>
-<path fill="none" stroke="black" d="M328.44,-48.08C330.89,-48.08 333.35,-48.08 335.8,-48.08"/>
-<polygon fill="black" stroke="black" points="335.89,-51.58 345.89,-48.08 335.89,-44.58 335.89,-51.58"/>
-</g>
 </g>
 </svg>

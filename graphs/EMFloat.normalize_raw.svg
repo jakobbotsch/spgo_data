@@ -23,7 +23,7 @@
 <title>BB2</title>
 <ellipse fill="none" stroke="black" cx="113.84" cy="-180.25" rx="113.69" ry="48.17"/>
 <text text-anchor="middle" x="113.84" y="-199.05" font-family="Times New Roman,serif" font-size="14.00">[1d..2d)</text>
-<text text-anchor="middle" x="113.84" y="-184.05" font-family="Times New Roman,serif" font-size="14.00">Count: 913</text>
+<text text-anchor="middle" x="113.84" y="-184.05" font-family="Times New Roman,serif" font-size="14.00">Count: 904</text>
 <text text-anchor="middle" x="113.84" y="-169.05" font-family="Times New Roman,serif" font-size="14.00">Normalized count: Infinity</text>
 <text text-anchor="middle" x="113.84" y="-154.05" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.36</text>
 </g>
@@ -38,9 +38,9 @@
 <title>BB1</title>
 <ellipse fill="none" stroke="black" cx="113.84" cy="-48.08" rx="113.69" ry="48.17"/>
 <text text-anchor="middle" x="113.84" y="-66.88" font-family="Times New Roman,serif" font-size="14.00">[2..1d)</text>
-<text text-anchor="middle" x="113.84" y="-51.88" font-family="Times New Roman,serif" font-size="14.00">Count: 1462</text>
+<text text-anchor="middle" x="113.84" y="-51.88" font-family="Times New Roman,serif" font-size="14.00">Count: 1459</text>
 <text text-anchor="middle" x="113.84" y="-36.88" font-family="Times New Roman,serif" font-size="14.00">Normalized count: Infinity</text>
-<text text-anchor="middle" x="113.84" y="-21.88" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.58</text>
+<text text-anchor="middle" x="113.84" y="-21.88" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.59</text>
 </g>
 <!-- BB1&#45;&gt;BB2 -->
 <g id="edge2" class="edge">
@@ -59,9 +59,9 @@
 <title>BB3</title>
 <ellipse fill="none" stroke="black" cx="359.84" cy="-48.08" rx="113.69" ry="48.17"/>
 <text text-anchor="middle" x="359.84" y="-66.88" font-family="Times New Roman,serif" font-size="14.00">[2d..2e)</text>
-<text text-anchor="middle" x="359.84" y="-51.88" font-family="Times New Roman,serif" font-size="14.00">Count: 144</text>
+<text text-anchor="middle" x="359.84" y="-51.88" font-family="Times New Roman,serif" font-size="14.00">Count: 120</text>
 <text text-anchor="middle" x="359.84" y="-36.88" font-family="Times New Roman,serif" font-size="14.00">Normalized count: Infinity</text>
-<text text-anchor="middle" x="359.84" y="-21.88" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.06</text>
+<text text-anchor="middle" x="359.84" y="-21.88" font-family="Times New Roman,serif" font-size="14.00">Samples weight: 0.05</text>
 </g>
 <!-- BB2&#45;&gt;BB3 -->
 <g id="edge4" class="edge">
